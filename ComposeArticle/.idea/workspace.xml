@@ -9,13 +9,13 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18da131e-3512-4bd9-8a4f-1f63d9d8f264" name="Changes" comment="" />
+    <list default="true" id="b77f705e-a99a-4af9-b0a3-b3bf9ba83630" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/home/aman/.android/avd/Resizable_Experimental_API_33.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[9PAQINJNJJKFJB8X]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -24,7 +24,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2KJh19vDSPtnWFnZ0akjnWAheIf" />
+  <component name="ProjectId" id="2KJiRtaQhLg2CY2ZoXOplsImFoo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,10 +34,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
-    "cidr.known.project.marker": "true",
-    "last_opened_file_path": "/home/aman/AndroidStudioProjects/Jetpack_Compose/HappyBirthday"
+    "cidr.known.project.marker": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="Compose_Article.app.main" />
@@ -101,11 +105,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="18da131e-3512-4bd9-8a4f-1f63d9d8f264" name="Changes" comment="" />
-      <created>1673698375915</created>
+      <changelist id="b77f705e-a99a-4af9-b0a3-b3bf9ba83630" name="Changes" comment="" />
+      <created>1673699081920</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1673698375915</updated>
+      <updated>1673699081920</updated>
     </task>
     <servers />
   </component>
