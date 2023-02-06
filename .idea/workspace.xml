@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d86bc19-1351-4408-bab8-12ca3083dbac" name="Changes" comment="" />
+    <list default="true" id="3d86bc19-1351-4408-bab8-12ca3083dbac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Android-Basics-with-Compose.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Android-Basics-with-Compose.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit1-Your-first-Android-app/BussinessCard/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Unit1-Your-first-Android-app/BussinessCard/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit1-Your-first-Android-app/ComposeArticle/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Unit1-Your-first-Android-app/ComposeArticle/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit1-Your-first-Android-app/ComposeQuadrant/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Unit1-Your-first-Android-app/ComposeQuadrant/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit1-Your-first-Android-app/HappyBirthday/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Unit1-Your-first-Android-app/HappyBirthday/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit1-Your-first-Android-app/TaskManager/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Unit1-Your-first-Android-app/TaskManager/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit2-Building-app-UI/DiceRoller/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Unit2-Building-app-UI/DiceRoller/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit2-Building-app-UI/LemonadeApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Unit2-Building-app-UI/LemonadeApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit2-Building-app-UI/TipTime/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Unit2-Building-app-UI/TipTime/gradlew" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +34,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "/home/aman/Android-Basics-with-Compose"
+    "last_opened_file_path": "C:/Users/Aman Kumar/Android-Basics-with-Compose"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
