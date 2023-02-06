@@ -59,9 +59,6 @@ fun ArtSpaceScreen(){
         var currentArtwork by remember {
             mutableStateOf(firstArtwork)
         }
-        var imageResource by remember {
-            mutableStateOf(currentArtwork)
-        }
 
         ArtworkDisplay( currentArtwork = currentArtwork, modifier = Modifier.padding(10.dp))
         Spacer(modifier = Modifier.size(16.dp))
